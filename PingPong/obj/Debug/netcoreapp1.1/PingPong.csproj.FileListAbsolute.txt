@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/bin/Debug/netcoreapp1.1/PingPong.deps.json
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/bin/Debug/netcoreapp1.1/PingPong.runtimeconfig.json
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/bin/Debug/netcoreapp1.1/PingPong.runtimeconfig.dev.json
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/obj/Debug/netcoreapp1.1/PingPong.AssemblyInfo.cs
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/bin/Debug/netcoreapp1.1/PingPong.dll
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/bin/Debug/netcoreapp1.1/PingPong.pdb
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/obj/Debug/netcoreapp1.1/PingPong.dll
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong/obj/Debug/netcoreapp1.1/PingPong.pdb
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\bin\Debug\netcoreapp1.1\PingPong.deps.json
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\bin\Debug\netcoreapp1.1\PingPong.runtimeconfig.json
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\bin\Debug\netcoreapp1.1\PingPong.runtimeconfig.dev.json
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\bin\Debug\netcoreapp1.1\PingPong.dll
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\bin\Debug\netcoreapp1.1\PingPong.pdb
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\obj\Debug\netcoreapp1.1\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\obj\Debug\netcoreapp1.1\PingPong.AssemblyInfo.cs
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\obj\Debug\netcoreapp1.1\PingPong.dll
+C:\Users\Isaac\desktop\pingpong-mstest\PingPong\obj\Debug\netcoreapp1.1\PingPong.pdb
